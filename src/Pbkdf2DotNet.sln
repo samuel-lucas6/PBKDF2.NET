@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pbkdf2DotNet", "Pbkdf2DotNet\Pbkdf2DotNet.csproj", "{53DAFD78-4B2D-4127-B86A-88D4AF96BB9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pbkdf2DotNetTests", "Pbkdf2DotNetTests\Pbkdf2DotNetTests.csproj", "{B6532EFD-D957-49C8-80FF-B3B0B7CEAD18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53DAFD78-4B2D-4127-B86A-88D4AF96BB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53DAFD78-4B2D-4127-B86A-88D4AF96BB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53DAFD78-4B2D-4127-B86A-88D4AF96BB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53DAFD78-4B2D-4127-B86A-88D4AF96BB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6532EFD-D957-49C8-80FF-B3B0B7CEAD18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6532EFD-D957-49C8-80FF-B3B0B7CEAD18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6532EFD-D957-49C8-80FF-B3B0B7CEAD18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6532EFD-D957-49C8-80FF-B3B0B7CEAD18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
